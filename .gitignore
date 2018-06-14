@@ -3,3 +3,17 @@
 ################################################################################
 
 *.suo
+*.lastbuildstate
+*.tlog
+*.exe
+*.ilk
+*.log
+*.obj
+
+*.opendb
+*.filters
+*.db
+*.pdb
+*.idb
+*.iobj
+*.ipdb
